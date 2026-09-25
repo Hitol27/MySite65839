@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Взрослая академия\\source\\repos\\WebApplication12\\WebApplication12\\WebApplication12.csproj",
+      "projectUniqueName": "C:\\Users\\Взрослая академия\\Desktop\\mysite3\\MySite65839\\WebApplication12\\WebApplication12.csproj",
       "projectName": "WebApplication12",
-      "projectPath": "C:\\Users\\Взрослая академия\\source\\repos\\WebApplication12\\WebApplication12\\WebApplication12.csproj",
+      "projectPath": "C:\\Users\\Взрослая академия\\Desktop\\mysite3\\MySite65839\\WebApplication12\\WebApplication12.csproj",
       "packagesPath": "C:\\Users\\Взрослая академия\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Взрослая академия\\source\\repos\\WebApplication12\\WebApplication12\\obj\\",
+      "outputPath": "C:\\Users\\Взрослая академия\\Desktop\\mysite3\\MySite65839\\WebApplication12\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Взрослая академия\\AppData\\Roaming\\NuGet\\NuGet.Config",
